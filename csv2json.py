@@ -24,7 +24,7 @@ with open('data.csv', newline='', encoding="utf-8-sig") as csvfile:
       elif header == '專案名稱':
         _data[header] = row[header]
       elif header == '數位性 Digital ':
-        _data['數位性 Digital'] = row[header]
+        _data['數位性 Digital'] = row[header].split(', ')
       elif '推動歷程與時間(' in header:
         _data[header] = parseTime2days(row[header])
       else:

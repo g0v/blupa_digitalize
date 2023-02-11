@@ -32,42 +32,14 @@
         "經驗共筆": 1
     },
     "數位性 Digital_count": {
-        "完": 16,
-        "全": 16,
-        "數": 36,
-        "位": 36,
-        " ": 77,
-        "1": 16,
-        "0": 54,
-        "%": 38,
-        "o": 36,
-        "n": 66,
-        "l": 36,
-        "i": 36,
-        "e": 36,
-        "為": 40,
-        "主": 20,
-        "實": 20,
-        "體": 20,
-        "輔": 20,
-        "8": 20,
-        "f": 12,
-        ",": 3,
-        "動": 1,
-        "態": 1,
-        "d": 1,
-        "a": 2,
-        "t": 1,
-        "A": 1,
-        "P": 2,
-        "中": 1,
-        "台": 1,
-        "5": 2,
-        "、": 1,
-        "紙": 1,
-        "本": 1,
-        "圖": 1,
-        "卡": 1
+        "完全數位 100% online": 16,
+        "數位為主實體為輔 80% online": 14,
+        "實體為主數位為輔 80% offline": 6,
+        "動態 data": 1,
+        "APP 中台": 1,
+        "": 2,
+        "50%、50%": 1,
+        "紙本圖卡": 1
     },
     "公開性 Public_count": {
         "部分適合公開": 2,
@@ -107,7 +79,9 @@
             "重用性 Modular": [
                 "元件化 Partially modularizable"
             ],
-            "數位性 Digital": "完全數位 100% online",
+            "數位性 Digital": [
+                "完全數位 100% online"
+            ],
             "公開性 Public": [
                 "部分適合公開"
             ],
@@ -136,7 +110,9 @@
                 "明確支援更多專案超展開",
                 "Bot 研究"
             ],
-            "數位性 Digital": "數位為主實體為輔 80% online",
+            "數位性 Digital": [
+                "數位為主實體為輔 80% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -164,7 +140,9 @@
                 "元件化 Partially modularizable",
                 "明確支援更多專案超展開"
             ],
-            "數位性 Digital": "數位為主實體為輔 80% online",
+            "數位性 Digital": [
+                "數位為主實體為輔 80% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -191,7 +169,9 @@
             "重用性 Modular": [
                 "元件化 Partially modularizable"
             ],
-            "數位性 Digital": "實體為主數位為輔 80% offline",
+            "數位性 Digital": [
+                "實體為主數位為輔 80% offline"
+            ],
             "公開性 Public": [
                 "部分適合公開"
             ],
@@ -220,7 +200,10 @@
                 "元件化 Partially modularizable",
                 "資料新聞"
             ],
-            "數位性 Digital": "完全數位 100% online, 動態 data",
+            "數位性 Digital": [
+                "完全數位 100% online",
+                "動態 data"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -246,7 +229,9 @@
             "重用性 Modular": [
                 "元件化 Partially modularizable"
             ],
-            "數位性 Digital": "完全數位 100% online",
+            "數位性 Digital": [
+                "完全數位 100% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -273,7 +258,9 @@
             "重用性 Modular": [
                 "資料釋出 Data Portal"
             ],
-            "數位性 Digital": "完全數位 100% online",
+            "數位性 Digital": [
+                "完全數位 100% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -305,7 +292,10 @@
                 "明確支援更多專案超展開",
                 "數位中介服務"
             ],
-            "數位性 Digital": "完全數位 100% online, APP 中台",
+            "數位性 Digital": [
+                "完全數位 100% online",
+                "APP 中台"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist",
                 "提供服務"
@@ -333,7 +323,9 @@
             "重用性 Modular": [
                 "明確支援更多專案超展開"
             ],
-            "數位性 Digital": "完全數位 100% online",
+            "數位性 Digital": [
+                "完全數位 100% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -359,7 +351,9 @@
             "重用性 Modular": [
                 "資料釋出 Data Portal"
             ],
-            "數位性 Digital": "完全數位 100% online",
+            "數位性 Digital": [
+                "完全數位 100% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -386,7 +380,9 @@
             "重用性 Modular": [
                 "資料釋出 Data Portal"
             ],
-            "數位性 Digital": "完全數位 100% online",
+            "數位性 Digital": [
+                "完全數位 100% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -415,7 +411,9 @@
                 "資料釋出 Data Portal",
                 "明確支援更多專案超展開"
             ],
-            "數位性 Digital": "",
+            "數位性 Digital": [
+                ""
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist",
                 "行銷、介紹台北"
@@ -444,7 +442,9 @@
             "重用性 Modular": [
                 "資料釋出 Data Portal"
             ],
-            "數位性 Digital": "數位為主實體為輔 80% online",
+            "數位性 Digital": [
+                "數位為主實體為輔 80% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -472,7 +472,9 @@
             "重用性 Modular": [
                 "資料釋出 Data Portal"
             ],
-            "數位性 Digital": "完全數位 100% online",
+            "數位性 Digital": [
+                "完全數位 100% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -498,7 +500,9 @@
             "重用性 Modular": [
                 "元件化 Partially modularizable"
             ],
-            "數位性 Digital": "數位為主實體為輔 80% online",
+            "數位性 Digital": [
+                "數位為主實體為輔 80% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -528,7 +532,9 @@
             "重用性 Modular": [
                 "元件化 Partially modularizable"
             ],
-            "數位性 Digital": "數位為主實體為輔 80% online",
+            "數位性 Digital": [
+                "數位為主實體為輔 80% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -555,7 +561,9 @@
             "重用性 Modular": [
                 "資料釋出 Data Portal"
             ],
-            "數位性 Digital": "完全數位 100% online",
+            "數位性 Digital": [
+                "完全數位 100% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -583,7 +591,9 @@
                 "資料釋出 Data Portal",
                 "元件化 Partially modularizable"
             ],
-            "數位性 Digital": "完全數位 100% online",
+            "數位性 Digital": [
+                "完全數位 100% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -613,7 +623,9 @@
                 "資料釋出 Data Portal",
                 "數位地圖足跡比對"
             ],
-            "數位性 Digital": "完全數位 100% online",
+            "數位性 Digital": [
+                "完全數位 100% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist",
                 "足跡為政府公開資料"
@@ -646,7 +658,9 @@
             "重用性 Modular": [
                 ""
             ],
-            "數位性 Digital": "實體為主數位為輔 80% offline",
+            "數位性 Digital": [
+                "實體為主數位為輔 80% offline"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -677,7 +691,9 @@
             "重用性 Modular": [
                 "資料釋出 Data Portal"
             ],
-            "數位性 Digital": "實體為主數位為輔 80% offline",
+            "數位性 Digital": [
+                "實體為主數位為輔 80% offline"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -706,7 +722,9 @@
                 "資料釋出 Data Portal",
                 "使用者查詢"
             ],
-            "數位性 Digital": "完全數位 100% online",
+            "數位性 Digital": [
+                "完全數位 100% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist",
                 "原 open data 資源整合"
@@ -733,7 +751,9 @@
             "重用性 Modular": [
                 "元件化 Partially modularizable"
             ],
-            "數位性 Digital": "數位為主實體為輔 80% online",
+            "數位性 Digital": [
+                "數位為主實體為輔 80% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -759,7 +779,9 @@
             "重用性 Modular": [
                 "資料釋出 Data Portal"
             ],
-            "數位性 Digital": "完全數位 100% online",
+            "數位性 Digital": [
+                "完全數位 100% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -785,7 +807,9 @@
             "重用性 Modular": [
                 "明確支援更多專案超展開"
             ],
-            "數位性 Digital": "數位為主實體為輔 80% online",
+            "數位性 Digital": [
+                "數位為主實體為輔 80% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -811,7 +835,9 @@
             "重用性 Modular": [
                 "明確支援更多專案超展開"
             ],
-            "數位性 Digital": "",
+            "數位性 Digital": [
+                ""
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -840,7 +866,9 @@
             "重用性 Modular": [
                 "明確支援更多專案超展開"
             ],
-            "數位性 Digital": "數位為主實體為輔 80% online",
+            "數位性 Digital": [
+                "數位為主實體為輔 80% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -867,7 +895,9 @@
             "重用性 Modular": [
                 "資料釋出 Data Portal"
             ],
-            "數位性 Digital": "完全數位 100% online",
+            "數位性 Digital": [
+                "完全數位 100% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -895,7 +925,9 @@
                 "明確支援更多專案超展開",
                 "機制"
             ],
-            "數位性 Digital": "50%、50%",
+            "數位性 Digital": [
+                "50%、50%"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist",
                 "機敏資料戰略攻防"
@@ -924,7 +956,9 @@
             "重用性 Modular": [
                 "明確支援更多專案超展開"
             ],
-            "數位性 Digital": "實體為主數位為輔 80% offline",
+            "數位性 Digital": [
+                "實體為主數位為輔 80% offline"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -954,7 +988,10 @@
                 "元件化 Partially modularizable",
                 "數位模板"
             ],
-            "數位性 Digital": "數位為主實體為輔 80% online, 紙本圖卡",
+            "數位性 Digital": [
+                "數位為主實體為輔 80% online",
+                "紙本圖卡"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist",
                 "提供服務"
@@ -982,7 +1019,9 @@
             "重用性 Modular": [
                 "明確支援更多專案超展開"
             ],
-            "數位性 Digital": "數位為主實體為輔 80% online",
+            "數位性 Digital": [
+                "數位為主實體為輔 80% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -1009,7 +1048,9 @@
                 "資料釋出 Data Portal",
                 "元件化 Partially modularizable"
             ],
-            "數位性 Digital": "數位為主實體為輔 80% online",
+            "數位性 Digital": [
+                "數位為主實體為輔 80% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -1036,7 +1077,9 @@
             "重用性 Modular": [
                 "元件化 Partially modularizable"
             ],
-            "數位性 Digital": "數位為主實體為輔 80% online",
+            "數位性 Digital": [
+                "數位為主實體為輔 80% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -1063,7 +1106,9 @@
             "重用性 Modular": [
                 "明確支援更多專案超展開"
             ],
-            "數位性 Digital": "實體為主數位為輔 80% offline",
+            "數位性 Digital": [
+                "實體為主數位為輔 80% offline"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -1091,7 +1136,9 @@
                 "資料釋出 Data Portal",
                 "經驗共筆"
             ],
-            "數位性 Digital": "實體為主數位為輔 80% offline",
+            "數位性 Digital": [
+                "實體為主數位為輔 80% offline"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -1118,7 +1165,9 @@
             "重用性 Modular": [
                 "元件化 Partially modularizable"
             ],
-            "數位性 Digital": "數位為主實體為輔 80% online",
+            "數位性 Digital": [
+                "數位為主實體為輔 80% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -1145,7 +1194,9 @@
             "重用性 Modular": [
                 "資料釋出 Data Portal"
             ],
-            "數位性 Digital": "完全數位 100% online",
+            "數位性 Digital": [
+                "完全數位 100% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
@@ -1174,7 +1225,9 @@
             "重用性 Modular": [
                 "資料釋出 Data Portal"
             ],
-            "數位性 Digital": "數位為主實體為輔 80% online",
+            "數位性 Digital": [
+                "數位為主實體為輔 80% online"
+            ],
             "公開性 Public": [
                 "唯恐天下不知 Exhibitionist"
             ],
