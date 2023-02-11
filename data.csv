@@ -1,0 +1,40 @@
+時間戳記,專案名稱,坑主與團隊屬性(複選),專案目標設定(複選),推動歷程與時間(學習與探究實作),推動歷程與時間(完成雛型),推動歷程與時間(完整產品),推動歷程與時間(政策倡議),複雜度 Complexity,重用性 Modular,數位性 Digital ,公開性 Public,軸向
+2023/2/11 上午 11:17:53,g0v.social,社會人士,完整產品,,,5y,,一人自幹沒問題 Solo proj,元件化 Partially modularizable,完全數位 100% online,部分適合公開,推動歷程與時間
+2023/2/11 上午 11:20:07,Cofacts真的假的,社會人士,學習與探究實作,7y,,,,需多人且需跨界 Need multi backgrounds,"資料釋出 Data Portal, 元件化 Partially modularizable, 明確支援更多專案超展開, Bot 研究",數位為主實體為輔 80% online,唯恐天下不知 Exhibitionist,複雜度 Complexity
+2023/2/11 上午 11:20:37,g0v 成就系統,"學生, 社會人士",完成雛形,3m,,,,需多人協同開發 Can’t do it alone,"元件化 Partially modularizable, 明確支援更多專案超展開",數位為主實體為輔 80% online,唯恐天下不知 Exhibitionist,"坑主與團隊屬性, 公開性 Public"
+2023/2/11 上午 11:21:04,戰爭網路,社會人士,完整產品,,,,,需多人且需跨界 Need multi backgrounds,元件化 Partially modularizable,實體為主數位為輔 80% offline,部分適合公開,坑主與團隊屬性
+2023/2/11 上午 11:21:21,台灣防空識別區 Taiwan Adiz Alerts,社會人士,"學習與探究實作, 完成雛形",,,,,一人自幹沒問題 Solo proj,"資料釋出 Data Portal, 元件化 Partially modularizable, 資料新聞","完全數位 100% online, 動態 data",唯恐天下不知 Exhibitionist,專案目標設定
+2023/2/11 上午 11:21:48,da0 armory,社會人士,,,,,,需多人協同開發 Can’t do it alone,元件化 Partially modularizable,完全數位 100% online,唯恐天下不知 Exhibitionist,"重用性 Modular, 數位性 Digital"
+2023/2/11 上午 11:22:19,da0 podcasts,社會人士,政策倡議,,,,,需多人協同開發 Can’t do it alone,資料釋出 Data Portal,完全數位 100% online,唯恐天下不知 Exhibitionist,"坑主與團隊屬性, 公開性 Public"
+2023/2/11 上午 11:23:20,批踢踢不能亡,"學生, 社會人士, NGO團體","學習與探究實作, 完成雛形, 完整產品",3y,3y,3y,,需多人協同開發 Can’t do it alone,"明確支援更多專案超展開, 數位中介服務","完全數位 100% online, APP 中台","唯恐天下不知 Exhibitionist, 提供服務",專案目標設定
+2023/2/11 上午 11:23:33,da0/n0body,"NGO團體, 法人機構",完成雛形,,,,,需多人且需跨界 Need multi backgrounds,明確支援更多專案超展開,完全數位 100% online,唯恐天下不知 Exhibitionist,複雜度 Complexity
+2023/2/11 上午 11:23:36,阿美語萌典,社會人士,,,3y,,,需多人協同開發 Can’t do it alone,資料釋出 Data Portal,完全數位 100% online,唯恐天下不知 Exhibitionist,"重用性 Modular, 數位性 Digital"
+2023/2/11 上午 11:23:42,da0 learning ,社會人士,學習與探究實作,,,,,一人自幹沒問題 Solo proj,資料釋出 Data Portal,完全數位 100% online,唯恐天下不知 Exhibitionist,公開性 Public
+2023/2/11 上午 11:24:19,行動紀錄家,"學生, 社會人士",,,,,,"需多人協同開發 Can’t do it alone, 需多人且需跨界 Need multi backgrounds","資料釋出 Data Portal, 明確支援更多專案超展開",,"唯恐天下不知 Exhibitionist, 行銷、介紹台北",專案目標設定
+2023/2/11 上午 11:25:06,大河小溪全民齊督工,"社會人士, NGO團體","完整產品, 政策倡議",,,1y,,需多人且需跨界 Need multi backgrounds,資料釋出 Data Portal,數位為主實體為輔 80% online,唯恐天下不知 Exhibitionist,公開性 Public
+2023/2/11 上午 11:25:15,藝文活水向哪流,"社會人士, NGO團體","完成雛形, 政策倡議",,6m,,,一人自幹沒問題 Solo proj,資料釋出 Data Portal,完全數位 100% online,唯恐天下不知 Exhibitionist,重用性 Modular
+2023/2/11 上午 11:25:20,g0v podcast ,社會人士,完整產品,6m,,,,需多人且需跨界 Need multi backgrounds,元件化 Partially modularizable,數位為主實體為輔 80% online,唯恐天下不知 Exhibitionist,"專案目標設定, 複雜度 Complexity"
+2023/2/11 上午 11:25:28,vTaiwan -1,"學生, 社會人士, NGO團體, 法人機構",政策倡議,,,,,需多人且需跨界 Need multi backgrounds,元件化 Partially modularizable,數位為主實體為輔 80% online,唯恐天下不知 Exhibitionist,專案目標設定
+2023/2/11 上午 11:26:32,ly sayit,"NGO團體, 法人機構",完整產品,,,6m,,一人自幹沒問題 Solo proj,資料釋出 Data Portal,完全數位 100% online,唯恐天下不知 Exhibitionist,公開性 Public
+2023/2/11 上午 11:27:32,g0v 時間軸,社會人士,完成雛形,,6m,,,"一人自幹沒問題 Solo proj, 需多人協同開發 Can’t do it alone","資料釋出 Data Portal, 元件化 Partially modularizable",完全數位 100% online,唯恐天下不知 Exhibitionist,重用性 Modular
+2023/2/11 上午 11:28:25,確診者足跡地圖,"學生, 社會人士, 法人機構","完成雛形, 完整產品",,,1y,,需多人協同開發 Can’t do it alone,"資料釋出 Data Portal, 數位地圖足跡比對",完全數位 100% online,"唯恐天下不知 Exhibitionist, 足跡為政府公開資料",重用性 Modular
+2023/2/11 上午 11:28:37,Rentea,"學生, 社會人士, NGO團體, 法人機構","學習與探究實作, 完成雛形, 完整產品, 政策倡議",2年,,,,需多人且需跨界 Need multi backgrounds,,實體為主數位為輔 80% offline,唯恐天下不知 Exhibitionist,推動歷程與時間
+2023/2/11 上午 11:29:24,vTaiwan -2 ,"學生, 社會人士, 法人機構","學習與探究實作, 完成雛形, 完整產品, 政策倡議",2或3次大松,,,,需多人且需跨界 Need multi backgrounds,資料釋出 Data Portal,實體為主數位為輔 80% offline,唯恐天下不知 Exhibitionist,專案目標設定
+2023/2/11 上午 11:30:04,CourseAPI,"學生, 社會人士","完成雛形, 政策倡議",,1y,,,需多人協同開發 Can’t do it alone,"資料釋出 Data Portal, 使用者查詢",完全數位 100% online,"唯恐天下不知 Exhibitionist, 原 open data 資源整合",重用性 Modular
+2023/2/11 上午 11:30:09,da0 incentive ,社會人士,完整產品,,,3m,,需多人協同開發 Can’t do it alone,元件化 Partially modularizable,數位為主實體為輔 80% online,唯恐天下不知 Exhibitionist,數位性 Digital
+2023/2/11 上午 11:30:44,阿美語萌典,社會人士,,,10m,,,需多人協同開發 Can’t do it alone,資料釋出 Data Portal,完全數位 100% online,唯恐天下不知 Exhibitionist,重用性 Modular
+2023/2/11 上午 11:30:46,da0 hypercerts ,社會人士,完整產品,,,,,需多人協同開發 Can’t do it alone,明確支援更多專案超展開,數位為主實體為輔 80% online,唯恐天下不知 Exhibitionist,數位性 Digital
+2023/2/11 上午 11:31:20,零時小學校,社會人士,,,,,,需多人且需跨界 Need multi backgrounds,明確支援更多專案超展開,,唯恐天下不知 Exhibitionist,重用性 Modular
+2023/2/11 上午 11:31:38,Disfactory,"學生, 社會人士, NGO團體","完整產品, 政策倡議",3y,,,,需多人且需跨界 Need multi backgrounds,明確支援更多專案超展開,數位為主實體為輔 80% online,唯恐天下不知 Exhibitionist,專案目標設定
+2023/2/11 上午 11:31:58,g0v language portal,"學生, 社會人士",完整產品,2m,,,,一人自幹沒問題 Solo proj,資料釋出 Data Portal,完全數位 100% online,唯恐天下不知 Exhibitionist,重用性 Modular
+2023/2/11 上午 11:32:24,g0v international ,"社會人士, NGO團體",政策倡議,,,,5y,需多人且需跨界 Need multi backgrounds,"明確支援更多專案超展開, 機制",50%、50%,"唯恐天下不知 Exhibitionist, 機敏資料戰略攻防",數位性 Digital
+2023/2/11 上午 11:32:35,桐花松,"社會人士, NGO團體","學習與探究實作, 完成雛形",,,,,需多人且需跨界 Need multi backgrounds,明確支援更多專案超展開,實體為主數位為輔 80% offline,唯恐天下不知 Exhibitionist,重用性 Modular
+2023/2/11 上午 11:32:55,畫文好譯圖卡,"學生, 社會人士, NGO團體","完成雛形, 完整產品",,4m,18m,,需多人且需跨界 Need multi backgrounds,"元件化 Partially modularizable, 數位模板","數位為主實體為輔 80% online, 紙本圖卡","唯恐天下不知 Exhibitionist, 提供服務",數位性 Digital
+2023/2/11 上午 11:33:46,da0 coordinate,社會人士,政策倡議,,,,,"需多人協同開發 Can’t do it alone, 需多人且需跨界 Need multi backgrounds",明確支援更多專案超展開,數位為主實體為輔 80% online,唯恐天下不知 Exhibitionist,複雜度 Complexity
+2023/2/11 上午 11:34:01,BigGIS,法人機構,政策倡議,,,,3y,需多人且需跨界 Need multi backgrounds,"資料釋出 Data Portal, 元件化 Partially modularizable",數位為主實體為輔 80% online,唯恐天下不知 Exhibitionist,複雜度 Complexity
+2023/2/11 上午 11:34:09,g0v hoodie ,學生,"完成雛形, 完整產品",,1m,,,需多人且需跨界 Need multi backgrounds,元件化 Partially modularizable,數位為主實體為輔 80% online,唯恐天下不知 Exhibitionist,重用性 Modular
+2023/2/11 上午 11:34:11,COSCUP,"學生, 社會人士",完整產品,,,6m,,需多人且需跨界 Need multi backgrounds,明確支援更多專案超展開,實體為主數位為輔 80% offline,唯恐天下不知 Exhibitionist,重用性 Modular
+2023/2/11 上午 11:35:47,Rentea,社會人士,"學習與探究實作, 完成雛形",3年,1y,,,需多人且需跨界 Need multi backgrounds,"資料釋出 Data Portal, 經驗共筆",實體為主數位為輔 80% offline,唯恐天下不知 Exhibitionist,"複雜度 Complexity, 重用性 Modular"
+2023/2/11 上午 11:36:22,救護&回報,學生,,6m,,,,需多人且需跨界 Need multi backgrounds,元件化 Partially modularizable,數位為主實體為輔 80% online,唯恐天下不知 Exhibitionist,數位性 Digital
+2023/2/11 上午 11:36:44,g0v 宅在家買菜共筆,社會人士,"完成雛形, 完整產品",,1h,,,需多人協同開發 Can’t do it alone,資料釋出 Data Portal,完全數位 100% online,唯恐天下不知 Exhibitionist,
+2023/2/11 上午 11:38:30,da0 coordinate,"學生, 社會人士","學習與探究實作, 完成雛形, 完整產品",,2m,,,需多人且需跨界 Need multi backgrounds,資料釋出 Data Portal,數位為主實體為輔 80% online,唯恐天下不知 Exhibitionist,數位性 Digital
