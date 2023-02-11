@@ -7,7 +7,7 @@ with open('data.csv', newline='') as csvfile:
   for row in reader:
     _data = {}
     for header in headers:
-      _data[header] = row[header].split(',')
+      _data[header] = row[header].split(', ')
     _data.pop('時間戳記')
     _data['專案名稱'] = _data['專案名稱'][0]
     out.append(_data)
